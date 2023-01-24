@@ -1,0 +1,180 @@
+Hospital
+
+[
+    {
+        "_id": "5f748dc8506b4d9a5fd26823",
+        "hId": "1",
+        "name": "Apollo hospital",
+        "address": "Plot No. 3-5-874/1 Near, Old MLA QuartersRd, Hyderguda,Hyderabad,Telangana 500029",
+        "contactNo": "040-23231380"
+    },
+    {
+        "_id": "5f748f49506b4d9a5fd26825",
+        "hId": "2",
+        "name": "KIMS hospital",
+        "address": "1-8-31/1, Ministers Road, Begumpet Secunderabad, Andhra Pradesh, India",
+        "contactNo": "040-44885000"
+    },
+    {
+        "_id": "5f748f58506b4d9a5fd26826",
+        "hId": "3",
+        "name": "Gandhi hospital",
+        "address": "6-1-34, Padmarao Nagar, Musheerabad, Hyderabad - 500025",
+        "contactNo": "040-27505566"
+    },
+    {
+        "_id": "5f748f65506b4d9a5fd26827",
+        "hid": "4",
+        "name": "Yashoda hospital",
+        "address": "Plot No. 156, Alexander Road, Behind Hari Hara Kala Bhavan, Hyderabad, Telangana - 500003",
+        "contactNo": "040-45674567"
+    },
+    {
+        "_id": "5f748f74506b4d9a5fd26828",
+        "hid": "5",
+        "name": "Care hospital",
+        "address": "Rd Number1,Prem Nagar,Banjara Hills,Hyderabad,Telangana,500034",
+        "contactNo": "040-34345656"
+    }
+]
+
+
+Ventilators
+
+
+
+[
+    {
+        "_id": "5f749072506b4d9a5fd2682a",
+        "hId": "2",
+        "name": "KIMS hospital",
+        "vid": "v21",
+        "status": "Available"
+    },
+    {
+        "_id": "5f74907f506b4d9a5fd2682b",
+        "hId": "3",
+        "name": "Gandhi hospital",
+        "vid": "v31",
+        "status": "occupied"
+    },
+    {
+        "_id": "5f74908e506b4d9a5fd2682c",
+        "hId": "4",
+        "name": "Yashoda hospital",
+        "vid": "v41",
+        "status": "occupied"
+    },
+    {
+        "_id": "5f749099506b4d9a5fd2682d",
+        "hId": "5",
+        "name": "Care hospital",
+        "vid": "v51",
+        "status": "occupied"
+    },
+    {
+        "_id": "5f749176506b4d9a5fd2682e",
+        "hId": "1",
+        "name": "Apollo hospital",
+        "vid": "v12",
+        "status": "occupied"
+    },
+    {
+        "_id": "5f7494a9506b4d9a5fd2682f",
+        "hId": "1",
+        "name": "Apollo hospital",
+        "vid": "v13",
+        "status": "Maintenance"
+    },
+    {
+        "_id": "5f7494b9506b4d9a5fd26830",
+        "hId": "1",
+        "name": "Apollo hospital",
+        "vid": "v14",
+        "status": "Available"
+    },
+    {
+        "_id": "5f74953f506b4d9a5fd26831",
+        "hId": "1",
+        "name": "Apollo hospital",
+        "vid": "v15",
+        "status": "Available"
+    },
+    {
+        "_id": "5f74954b506b4d9a5fd26832",
+        "hId": "2",
+        "name": "KIMS hospital",
+        "vid": "v22",
+        "status": "Maintenance"
+    },
+    {
+        "_id": "5f749571506b4d9a5fd26833",
+        "hId": "2",
+        "name": "KIMS hospital",
+        "vid": "v24",
+        "status": "Available"
+    },
+    {
+        "_id": "5f749581506b4d9a5fd26834",
+        "hId": "2",
+        "name": "KIMS hospital",
+        "vid": "v23",
+        "status": "occupied"
+    },
+    {
+        "_id": "5f749596506b4d9a5fd26835",
+        "hId": "3",
+        "name": "Gandhi hospital",
+        "vid": "v32",
+        "status": "Available"
+    },
+    {
+        "_id": "5f7495ab506b4d9a5fd26836",
+        "hId": "3",
+        "name": "Gandhi hospital",
+        "vid": "v33",
+        "status": "Maintenance"
+    },
+    {
+        "_id": "5f7495bc506b4d9a5fd26837",
+        "hId": "4",
+        "name": "Yashoda hospital",
+        "vid": "v42",
+        "status": "Available"
+    },
+    {
+        "_id": "5f7495d4506b4d9a5fd26838",
+        "hId": "5",
+        "name": "Care hospital",
+        "vid": "v52",
+        "status": "occupied"
+    },
+    {
+        "_id": "5f7495e9506b4d9a5fd26839",
+        "hId": "5",
+        "name": "Care hospital",
+        "vid": "v53",
+        "status": "occupied"
+    },
+    {
+        "_id": "5f7562bae0f7023c585195ae",
+        "hId": "5",
+        "vid": "v54",
+        "status": "Available",
+        "name": "Care hospital"
+    },
+    {
+        "_id": "5f773a0e5c9491070835cb58",
+        "hId": null,
+        "vid": "v55",
+        "status": "Available",
+        "name": "Care hospital"
+    },
+    {
+        "_id": "5f773a155c9491070835cb59",
+        "hId": "5",
+        "vid": "v55",
+        "status": "Available",
+        "name": "Care hospital"
+    }
+]
